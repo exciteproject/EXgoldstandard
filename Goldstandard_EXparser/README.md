@@ -15,15 +15,14 @@ This corpus will grow constantly.
 ### How access to papers:
 **Papers are divided into two groups (according to their language).
 **There are six different folders in this repository.**
-1. [1-German_papers](1-German_papers)
+1. [German_papers](1-German_papers)
    - There are 225 papers in this folder.
-    - [105 paper with reference section at end of paper](1-German_papers/1-German_papers(with_reference_section_at_end_of_paper))
-    - [20 paper with reference in footnote](1-German_papers/2-German_papers(with_reference_in_footnote))
-2. [2-English_papers](2-English_papers)
-   - In this folder there are 100 papers in English language.
-   - At the end of each paper there is a reference section.
-3. [3-Guidelinefiles](3-Guidelinefiles/)
-   - All guideline files will be located in this folder.
+   - [105 paper with reference section at end of document](1-German_papers/1-German_papers(with_reference_section_at_end_of_paper))
+   - [20 paper with references in footnote](1-German_papers/2-German_papers(with_reference_in_footnote))
+2. [English_papers](2-English_papers)
+   - There are 100 papers in this folder.
+3. [Guidelinefiles](3-Guidelinefiles/)
+   - Guideline files are located in this folder.
 
     
 **Each folder contains several sub-folders:**
@@ -34,13 +33,13 @@ This corpus will grow constantly.
     * [CERMINE](https://github.com/CeON/CERMINE) is used for Generating layout CSV files from given PDFs.
 3. **Layout with identified references**
     * This folder contains layout files plus identified references and all the reference strings are annotated and checked manually.
-    * [EXRef-Identifier](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool1) is used for checking identified reference strings in layout files.
+    * [EXRef-Identifier](https://github.com/exciteproject/EXannotator) is used for checking identified reference strings in layout files.
 4. **Extracted References from Layouts**
     * This folder contains extracted reference strings from annotated layout files (the output of step 3).
     * [refext ](https://github.com/exciteproject/refext) is used for extracting reference strings from layout files.
 5. **Segmented References**
     * This folder contains segmented reference strings.
-    * references are checked and edited manually by [EXRefmeta-Extractor Tool](https://github.com/exciteproject/Annotator_tool/tree/master/Annotatortool2)
+    * references are checked and edited manually by [EXRefmeta-Extractor Tool](https://github.com/exciteproject/EXannotator)
 6. Merged Layout and segmented references
     * This folder contains layout files(from step 3) which are merged with segmented reference strings(from step 5).
 
