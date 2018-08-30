@@ -4,7 +4,7 @@ All datasets consist of research papers which come from the **[SSOAR repository]
 This corpus will grow constantly.
 
 ## big picture of "gold standard process"
-![gold standard process](https://github.com/exciteproject/ssoar-gold-standard/blob/master/3-Guidelinefiles/goldstandard-process.PNG "gold standard process")
+![gold standard process](3-Guidelinefiles/goldstandard-process.PNG "gold standard process")
 
 ## Content
 * Number of all papers in repository: 225
@@ -15,15 +15,15 @@ This corpus will grow constantly.
 ### How access to papers:
 **Papers are divided into two groups (according to their language).
 **There are six different folders in this repository.**
-* [1-German_papers](1-German_papers)
-    * There are 225 papers in this folder.
-    ** [105 paper with reference section at end of paper](1-German_papers/1-German_papers(with_reference_section_at_end_of_paper))
-    ** [20 paper with reference in footnote](1-German_papers/2-German_papers(with_reference_in_footnote))
-* [2-English_papers](2-English_papers)
-    * In this folder there are 100 papers in English language.
-    * At the end of each paper there is a reference section.
-* [33-Guidelinefiles](3-Guidelinefiles/)
-   * All guideline files will be located in this folder.
+1. [1-German_papers](1-German_papers)
+   - There are 225 papers in this folder.
+    - [105 paper with reference section at end of paper](1-German_papers/1-German_papers(with_reference_section_at_end_of_paper))
+    - [20 paper with reference in footnote](1-German_papers/2-German_papers(with_reference_in_footnote))
+2. [2-English_papers](2-English_papers)
+   - In this folder there are 100 papers in English language.
+   - At the end of each paper there is a reference section.
+3. [3-Guidelinefiles](3-Guidelinefiles/)
+   - All guideline files will be located in this folder.
 
     
 **Each folder contains several sub-folders:**
