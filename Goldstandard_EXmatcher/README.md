@@ -17,7 +17,7 @@ The results of these steps were stored in [DataSet_A csv](https://raw.githubuser
   3. reference_segementations,
   4. Math_ids_in_sowiport. 
 
-Out of all references in the set, 386 items have at least one match item in sowiport.
+Out of all references in the set, 521 items have at least one match item in sowiport.
 
 
 ## Target set in the gold standard for matching of reference strings against
