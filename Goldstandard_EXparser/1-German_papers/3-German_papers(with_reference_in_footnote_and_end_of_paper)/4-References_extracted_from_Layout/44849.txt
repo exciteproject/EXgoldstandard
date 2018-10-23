@@ -1,0 +1,26 @@
+Koch 1997a
+Methodenberichten der ALLBUS-Surveys, z.B. Haarmann et al. 2006 für die Personenstichprobe des ALLBUS 2004
+Lengerer, Bohr, Janßen 2005
+ Hartmann 1990: 10, Rothe 1990
+Koch et al. 1999: 38, Terwey 2000: 151
+Quelle zu den Daten des Mikrozensus 2005: Statistisches Bundesamt, Pressemitteilung vom 6. Juni 2006, http://www.destatis.de/presse/deutsch/pm2006/p2280024.htm
+Funk 1989
+Quelle zu den Daten der EVS (Einkommens- und Verbrauchsstichprobe) 2003: Statistisches Bundesamt, http://www.destatis.de/themen/d/thm_infogesell.php
+Statistisches Bundesamt 2005b
+Michael Blohm (GESIS, Mannheim) mit der anonymisierten 70 % Unterstichprobe des Mikrozensus 2004 (ZUMA-File)
+Funk, Walter (1989): HAUSHALT – Ein SPSSX-Programm zur Erfassung personaler Haushalts und Familienstrukturen. In: ZUMA Nachrichten 25, S. 7-23
+Gabler, Siegfried (1994): Ost-West-Gewichtung der Daten der ALLBUS-Baseline-Studie 1991 und des ALLBUS 1992. In: ZUMA Nachrichten 35, S. 77-81.
+Haarmann, Alexander; Scholz, Evi; Wasmer, Martina; Blohm, Michael; Harkness, Janet (2006): Konzeption und Durchführung der „Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften“ (ALLBUS) 2004. ZUMA-Methodenbericht 2006/06.
+Hartmann, Peter H. (1990): Wie repräsentativ sind Bevölkerungsumfragen? Ein Vergleich des ALLBUS und des Mikrozensus. In: ZUMA Nachrichten 26, S. 7-30.
+Koch, Achim (1997a): ADM-Design und Einwohnermelderegister-Stichproben. Stichprobenverfahren bei mündlichen Bevölkerungsumfragen. In: Gabler, Siegfried; Hoffmeyer-Zlotnik, Jürgen H. P. (Hrsg.): Stichproben in der Umfragepraxis. Opladen: Westdeutscher Verlag, S. 99-116.
+Koch, Achim (1997b): Teilnahmeverhalten beim ALLBUS 1994. Soziodemographische Determinanten von Erreichbarkeit, Befragungsfähigkeit und Kooperationsbereitschaft. In: Kölner Zeitschrift für Soziologie und Sozialpsychologie, 49, S. 98-122.
+Koch, Achim; Kurz, Karin; Mahr-George, Holger; Wasmer, Martina (1999): Konzeption und Durchführung der „Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften“ (ALLBUS) 1998. ZUMAArbeitsbericht 99/02.
+Lengerer, Andrea; Bohr, Jeanette; Janßen, Andrea (2005): Haushalte, Familien und Lebensformen im Mikrozensus – Konzepte und Typisierungen. ZUMA-Arbeitsbericht Nr. 2005/05.
+Porst, Rolf (1984): Haushalte und Familien 1982. Zur Erfassung und Beschreibung von Haushalts- und Familienstrukturen mit Hilfe repräsentativer Bevölkerungsumfragen. In: Zeitschrift für Soziologie, 13, S. 165-175.
+Rösch, Günther (1994): Kriterien der Gewichtung einer nationalen Bevölkerungsstichprobe. In: Gabler, Siegfried; Hoffmeyer-Zlotnik, Jürgen H. P.; Krebs, Dagmar (Hrsg.): Gewichtung in der Umfragepraxis. Opladen: Westdeutscher Verlag, S. 7-26.
+Rothe, Günther (1990): Wie (un)wichtig sind Gewichtungen? Eine Untersuchung am ALLBUS 1986. In: ZUMA Nachrichten 26, S. 31-55.
+Statistisches Bundesamt (2005a): Bevölkerung und Erwerbstätigkeit, Haushalte und Familien, Ergebnisse des Mikrozensus 2004. Fachserie 1 / Reihe 3. Wiesbaden: Statistisches Bundesamt.
+Statistisches Bundesamt (2005b): Wirtschaftsrechnungen, Einkommens- und Verbrauchsstichprobe – Aufgabe, Methode und Durchführung der EVS 2003. Fachserie 15 / Heft 7. Wiesbaden: Statistisches Bundesamt.
+Terwey, Michael (2000): Der neue kumulierte ALLBUS 1980-1998: Vorgestellt mit einem Analysebeispiel zur Furcht vor Arbeitslosigkeit und zur Datengewichtung. In: ZA-Information 46, S. 143-153.
+ZA (Zentralarchiv für Empirische Sozialforschung) und ZUMA (Zentrum für Umfragen, Methoden und
+Analysen) (2005): ALLBUS 2004 (ZA-Studien-Nr. 3762), Surveydeskription, elektronisches Codebuch, Datensatz, Köln: GESIS.
