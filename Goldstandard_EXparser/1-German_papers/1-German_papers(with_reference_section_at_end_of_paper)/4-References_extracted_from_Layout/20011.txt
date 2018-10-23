@@ -1,0 +1,18 @@
+ADM, ASI, BVM, D.G.O.F. (2001): Broschüre: Standards zur Qualitätssicherung für Online-Befragungen = Standards for Quality Assurance for Online-Surveys. Frankfurt a.M., Mai 2001, www.adm-ev.de
+Bandilla, W. (2003): Die Internetgemeinde als Grundgesamtheit. In: Arbeitskreis Deutscher Markt- und Sozialforschungsinstitute e.V. (ADM); Arbeitsgemeinschaft Sozialwissenschaftlicher Institute e.V. (ASI); Statistisches Bundesamt, Wiesbaden (Hrsg.) (2003): Online-Erhebungen: 5. Wissenschaftliche Tagung. Bonn: Informationszentum Sozialwissenschaften. 155 S. (Sozialwissenschaftliche Tagungsberichte; Bd. 7), S. 71-83
+Batinic, B.; Bosnjak, M. (2000): Fragebogenuntersuchungen im Internet. In: B. Batinic (Hrsg.), Internet für Psychologen. 2. überarb. u. erw. Aufl., Göttingen: Hogrefe, S. 287-318
+Binder, Gisbert; Klein, Markus; Porst, Rolf; Stahl, Matthias (2001): GESIS Potentialanalyse: IZ, ZA, ZUMA im Urteil von Soziologieprofessorinnen und - professoren. 121 S. (GESIS-Arbeitsbericht Nr. 2)
+Backhaus, K.; Erichson, B.; Plinke, W.; Weiber, R.( 2000): Multivariate Analysemethoden. 9. überarb. u. erw. Aufl., Heidelberg: Springer
+Bosnjak, M. (2002): (Non)Response bei Web-Befragungen. Aachen: Shaker Verlag
+Budd, J.; Bradford, C. (2000): Mapping the Web: Challenges in researching the UK Internet population. Paper presented at the Association for Survey Computing conference ‘Survey Research on the Internet. The Honeymoon is over!’, London, UK
+Comley, P. (1999): Pop up Surveys - What works, what doesn’t work and what will work in the future. Paper presented at the Esomar conference ‘Net Effects 3’, Dublin, IRL
+Diekmann, A. (1995): Empirische Sozialforschung. Reinbek: Rowohlt, S. 386
+Faas, T. (2003): Umfragen im Umfeld der Bundestagswahl 2002: Offline und Online im Vergleich. In: ZA-Informationen 52, S. 120-135
+Keinonen, T (1998): One-dimensional usability - influence of usability on consumers’ product preference. Helsinki (UIAH publication A21)
+Olsson, C. (2000): The usability concept re-considered: A need for new ways of measuring real web use. In: IRIS 23 : doing IT together 12-15 August, 2000, at Lingatan, Sweden. Uddevalla : Laboratorium for Interaction Technology, Univ. of Trollhättan/Uddevalla
+Gaines, B; Shaw, L.; Chen , L.: Utility, Usability and Likeability: Dimensions of the Net and Web [online]. Available from World Wide Web: http://ksi.cpsc.ucalgary.ca/articles/WN96/WN96HF/WN96HF.html (Date: 03.08.2004)
+Pfleiderer, R. (2003): Zufallsauswahl im Internet. In: A. Theobald; M. Dreyer; T. Starsetzki (Hrsg.). Online-Marktforschung, 2. überarb. u. erw. Aufl., Wiesbaden: Gabler, S. 383- 394.
+Schonlau, M.; Fricker, R.D.; Elliott, M.N. (2001): Conducting Research Surveys via E-Mail and the Web. Santa Monica, CA: Rand
+Theobald, A.; Dreyer, M.; Starsetzki, T. (Hrsg.) (2003): Online-Marktforschung. 2. überarb. u. erw. Aufl., Wiesbaden: Gabler
+Theobald, A. (2003). Rücklaufquoten bei Online-Befragungen. In A. Theobald, M. Dreyer & T. Starsetzki (Hrsg.), Online-Marktforschung. 2. überarb. u. erw. Aufl., Wiesbaden: Gabler, S. 203-210
+Tuten, T.L.; Bosnjak, M.; Bandilla, W. (2000): Banner-Advertised Web Surveys. In: Marketing Research 11(4), S. 17-21

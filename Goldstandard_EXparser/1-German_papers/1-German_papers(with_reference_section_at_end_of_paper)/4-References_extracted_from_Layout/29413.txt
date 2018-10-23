@@ -1,0 +1,28 @@
+[1] Becker, Gary S. und Nigel Tomes, 1979, An Equilibrium Theory of the Distribution of Income and Intergenerational Mobility, Journal of Political Economy, 87(6), S. 1153-1189.
+[2] Becker, Gary S. und Nigel Tomes, 1986, Human Capital and the Rise and Fall of Families, Journal of Labor Economics, 4(3), S. 1-39.
+[3] Blanden, Jo, Paul Gregg und Stephen Machin, 2005, Intergenerational Mobility in Europe and North America, Discussion Paper, Centre for Economic Performance, London.
+[4] Böhlmark, Anders und Matthew J. Lindquist, 2006, Life-Cycle Variations in the Association between Current and Lifetime Income: Replication and Extension for Sweden, Journal of Labor Economics, 24(4), S. 879-896.
+[5] Bratberg, Espen, Oivind A. Nilsen und Kjell Vaage, 2007, Trends in Intergenerational Mobility across Oﬀspring’s Earnings Distribution in Norway, Industrial Relations, 46(1), S. 112-129.
+[6] Burkhauser, Richard V. et al., 2004, Creation of Private and Public (Social Security and Other Government Income) Categories for CNEF Data.
+[7] Chadwick, Laura und Gary Solon, 2002, Intergenerational Income Mobility among Daughters, The American Economic Review, 92(1), S. 335-344.
+[8] Comi, Simona, 2004, Intergenerational Mobility in Europe: Evidence from ECHP, Working Paper Nr. 18/2004, Centre for Household, Income, Labour and Demographic Economics.
+[9] Corak, Miles R., 2004, Generational Income Mobility in North America and Europe: An Introduction, in: Corak, Miles R. (Hrsg.), 2004, Generational Income Mobility in North America and Europe, Cambridge Univ. Press, Cambridge, S. 1-37.
+[10] Corak, Miles R., 2006, Do Poor Children Become Poor Adults? Lessons from a Cross Country Comparison of Generational Earnings Mobility, IZA Discussion Paper Nr. 1993, Forschungsinstitut zur Zukunft der Arbeit, Bonn.
+[11] Couch, Kenneth A. und Thomas A. Dunn, 1997, Intergenerational Correlations in Labor Market Status - a Comparison of the United States and Germany, The Journal of Human Resources, 32(1), S. 210-232.
+[12] Eide, Eric R. und Mark H. Showalter, 1999, Factors Aﬀecting the Transmission of Earnings across Generations: A Quantile Regression Approach, The Journal of Human Resources, 34(2), S. 253-267.
+[13] Ermisch, John, Marco Francesconi und Thomas Siedler, 2006, Intergenerational Mobility and Marital Sorting, The Economic Journal, 116 (515 der Gesamtfolge), S. 659-679.
+[14] Fertig, Angela R., 2003/2004, Trends in Intergenerational Earnings Mobility in the United States, Journal of Income Distribution, 12(3/4), S. 108-130.
+[15] Grawe, Nathan D., 2004, Intergenerational Mobility for Whom? The Experience of High- and Low- Earning Sons in International Perspective, in: Corak, Miles R. (Hrsg.), 2004, Generational Income Mobility in North America and Europe, Cambridge Univ. Press, Cambridge, S. 58-89.
+[16] Greene, William H., 2003, Econometric Analysis, 5. Auﬂ., Prentice-Hall, Upper Saddle River NJ.
+[17] Haider, Steven und Gary Solon, 2006, Life-Cycle Variation in the Association between Current and Lifetime Earnings, The American Economic Review, 96(4), S. 1308-1320.
+[18] Jäntti, Markus et al., 2006, American Exceptionalism in a New Light: A Comparison of Intergenerational Earnings Mobility in the Nordic Countries, the United Kingdom and the United States, IZA Discussion Paper Nr. 1938, Forschungsinstitut zur Zukunft der Arbeit, Bonn.
+[19] Koenker, Roger und Gilbert Bassett Jr., 1978, Regression Quantiles, Econometrica, 46(1), S. 33-50.
+[20] Lillard, Dean R., 2001, Earnings and Income Mobility - Cross-National Estimates of the Intergenerational Mobility in Earnings, Vierteljahreshefte zur Wirtschaftsforschung, 70(1), S. 51-58.
+[21] SOEP-Group, 2001, The German Socio-Economic Panel (GSOEP) after more than 15 Years - Overview, Vierteljahreshefte zur Wirtschaftsforschung, 70(1), S. 7-14.
+[22] Solon, Gary, 1989, Biases in the Estimation of Intergenerational Earnings Correlations, The Review of Economics and Statistics, 71(1), S. 172–174.
+[23] Solon, Gary, 1992, Intergenerational Income Mobility in the United States, The American Economic Review, 82(3), S. 393-408.
+[24] Solon, Gary, 2002, Cross-Country Diﬀerences in Intergenerational Earnings Mobility, The Journal of Economic Perspectives, 16(3), S. 59-66.
+[25] Vogel, Thorsten, 2006a, Reassessing Intergenerational Mobility in Germany and the United States: The Impact of Diﬀerences in Lifecycle Earnings Patterns, SFB Discussion Paper Nr. 649, School of Business and Economics, Humboldt-Universität zu Berlin, Berlin.
+[26] Vogel, Thorsten, 2006b, Reassessing Intergenerational Mobility in Germany: Some new Estimation Methods and a Comparison of Natives and Immigrants, Department of Economics - Humboldt-Universität zu Berlin, Berlin.
+[27] Wiegand, Johannes, 1997, Intergenerational Earnings Mobility in Germany, unpublished, aus: Corak, Miles R., 2006, Do Poor Children Become Poor Adults? Lessons from a Cross Country Comparison of Generational Earnings Mobility, IZA Discussion Paper Nr. 1993, Forschungsinstitut zur Zukunft der Arbeit, Bonn, S.60.
+[28] Zimmerman, David J., 1992, Regression Toward Mediocrity in Economic Stature, The American Economic Review, 82(3), S. 409-429.

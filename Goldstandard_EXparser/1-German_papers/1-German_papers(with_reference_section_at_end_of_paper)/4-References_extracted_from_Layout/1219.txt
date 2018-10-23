@@ -1,0 +1,20 @@
+Coleman, J.S. 1995, Grundlagen der Sozialtheorie. Oldenbourg: München.
+Esser, Hartmut 1993, Soziologie. Allgemeine Grundlagen. Campus: Frankfurt a.M.
+Esser, Hartmut 1999, Soziologie - Spezielle Grundlagen. Band 1: Situationslogik und Handeln. Campus: Frankfurt a.M.
+Esser, Hartmut 2000, Soziologie - Spezielle Grundlagen. Band 5: Institutionen. Campus: Frankfurt a.M.
+Esser, Hartmut 2001, Soziologie - Spezielle Grundlagen. Band 6: Sinn und Kultur. Campus: Frankfurt a.M.
+Fischer, Klaus, Michael Florian und Thomas Malsch (Hg.) 2006, Socionics. Scalability of Complex Social Systems. Springer: Berlin.
+Flick, Uwe 2004, Triangulation. Eine Einführung. VS Verlag für Sozialwissenschaften: Wiesbaden.
+Gerstl, Renate, Alexandre Hanft, Sebastian Müller, Michael Hahne, Martin Meister und Dagmar Monett Diaz 2002a, Modellierung der praktischen Rolle in Verhandlungen mit einem erweiterten Verfahren des fallbasierten Schließens. Technische Universität Berlin, Technology Studies TUTS-WP-7-2002: Berlin.
+Gerstl, Renate, Alexander Osherenko und Gabriela Lindemann-v.Trzebiatowski 2002b, The description of formal roles in hospital environments. S. in: G. Lindemann, D. Moldt, M. Paolucci und B. Yu (Hg.), Proceedings of the workshop 'Regulated agent based systems - Theories and applications' (RASTA02), First International Joint Conference on Autonomous agents and Multiagent Systems 2002. Bologna.
+Giddens, Anthony 1992, Die Konstitution der Gesellschaft. Campus: Frankfurt a.M.
+Hahne, Michael, Eric Lettkemann, Renate Lieb und Martin Meister 2006, Going Data mit Interaktivitätsexperimenten: Eine neue Methode zur Beobachtung und Analyse der Interaktivität von Menschen und Maschinen. S. 275-309 in: Werner Rammert und Cornelius Schubert (Hg.), Technografie. Zur Mikrosoziologie der Technik. Campus: Frankfurt a.M.
+Kron, Thomas 2004, General Theory of Action? Inkonsistenzen in der Handlungstheorie von Hartmut Esser. Zeitschrift für Soziologie 33 (3): 186-205.
+Malsch, Thomas (Hg.) 1998, Sozionik. Soziologische Ansichten über künstliche Sozialität. edition sigma: Berlin.
+Meister, Martin, Diemo Urbig, Renate Gerstl, Eric Lettkemann, Alexander Osherenko und Kay Schröter 2002, Die Modellierung praktischer Rollen für Verhandlungssysteme in Organisationen. Wie die Komplexität von Multiagentensystemen durch Rollenkonzeptionen erhöht werden kann. Technische Universität Berlin, Technology Studies TUTS-WP-6-2002: Berlin.
+Meister, Martin, Diemo Urbig, Kay Schröter und Renate Gerstl 2005, Agents enacting social roles. Balancing formal structure and practical rationality in MAS design. S. 104-131 in: Klaus Fischer, Michael Florian und Thomas Malsch (Hg.), Socionics. Scalability of Complex Social Systems. Lecture Notes in Artificial Intelligence 3413. Springer: Berlin, Heidelberg.
+Meister, Martin, Kay Schröter, Eric Lettkemann, Diemo Urbig, Hans-Dieter Burkhard und Werner Rammert 2007, Construction and evaluation of social agents in hybrid set33 tings. Approach and experimental results of the INKA project. Journal of Artificial Societies and Social Simulation, Special Section on Socionics 10 (1): http://jasss.soc.surrey.ac.uk/10/1/4.html.
+Pappi, Franz Urban 1987, Methoden der Netzwerkanalyse. Oldenbourg: München.
+Schütz, Alfred 1991, Der sinnhafte Aufbau der sozialen Welt. Campus: Frankfurt a.M.
+Urbig, Diemo und Kay Schröter 2005, Negotiating Agents: From Full Autonomy to Degrees of Delegation. Poster Paper (to appear) in Proceedings of the 4th International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS 2005), Utrecht, July 25-29, 2005.
+Weiss, G. (Hg.) 1999, Multiagent Systems. MIT Press: Cambridge, Mass. Wittgenstein, Ludwig 1977, Philosophische Untersuchungen. Campus: Frankfurt a.M.

@@ -1,0 +1,6 @@
+Elzinga Cees H. (2006). Turbulence In Categorical Time Series, Department of Social Science Research Methods, Vrije Universiteit Amsterdam, The Netherlands.
+Elzinga Cees H. (2010). Complexity Of Categorical Time Series, Sociological Methods Research February 2010, 38(3), 463-481
+Gabadinho, A., Ritschard, G., Müller, N. S. & Studer M. (2011). Analyzing and Visualizing State Sequences in R with TraMineR. Journal of Statistical Software, 40(4), 1-37.
+Papastefanou, G., Gruhler, J. (2014). Social status differentiation of leisure activities variation over the weekend – Approaching the voraciousness thesis by a sequence complexity measure. Electronic International Journal of Time Use Research, 11, 1-12.
+Scherer, S., Brüderl, J. (2011) Sequenzdatenanalyse. In Christof Wolf, Henning Best (Hrsg.). Handbuch der sozialwissenschaftlichen Datenanalyse. Hamburg, Springer Verlag.
+Stegmann, M., Werner, J., Müller, H. (2013). Sequenzmusteranalyse. Einführung in Theorie und Praxis. München, Rainer Hampp Verlag.

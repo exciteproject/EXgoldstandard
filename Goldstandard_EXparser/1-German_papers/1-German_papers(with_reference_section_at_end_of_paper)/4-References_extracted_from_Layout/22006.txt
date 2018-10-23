@@ -1,0 +1,22 @@
+[BAUD93] Baudel, T.: CHARADE - Remote Control of Objects using Free-Hand Gestures, Communications of the ACM, Vol.36, No.7, July 1993
+[BORD93] Bordegoni, M. & Hemmje, M.: A Dynamic Gesture Language and Graphical Feedback for Interaction in a 3D User Interface, EUROGRAPHICS ´93, Vol. 12, No. 3
+[BRAU94] Brauer, V.: Feature-basierte Erkennung dynamischer Gesten mit einem Datenhandschuh, Diplomarbeit im Fach Informatik, Universität Bremen, 1994
+[BRAU96] Brauer, V. & Bruns, F.W.: Greifendes und begreifendes Modellieren im Realen und Virtuellen, in Neugebauer u. Wiesener (Hrsg.), 7. Workshop Hypermedia und KI, Report FR-1996-001, FORWISS, Erlangen, 1996
+[BRUN93] Bruns, F. W.: Über die Rückgewinnung von Sinnlichkeit - Eine neue Form des Umgangs mit Rechnern Universität Bremen, Forschungszentrum Arbeit und Technik (artec) artec Arbeitspapier Nr. 19, Januar 1993
+[CARR91] Carr, R.: The Point of the Pen, Byte, Feb. 1991, S. 211-221 [DARR95] Darrell, T & Pentland, A. P.: Attention-driven Expression and Gesture Analysis in an Interactive Environment, Proceedings of the International Workshop on Automatic Face- and Gesture-Recognition (IWAFGR), Zurich, 1995
+[EKMA79] Ekman & Friesen in Scherer, R. (Hrsg.): Handbewegungen, Nonverbale Kommunikation: Forschungsberichte zum Interaktionsverhalten, Beltz Verlag, Weinheim, 1979
+[FELS93] Fels, S. & Hinton, G.: Glove-Talk: A Neural Network Interface between a Data Glove and a Speech Synthesizer, IEEE Transactions on Neural Networks, Vol 4, No. 1, January 1993
+[FELS95] Fels, S. & Hinton, G.: Glove-Talk II: An Adaptive Gesture-to-Formant Interface, ACM Proceedings of the CHI 1995
+[HARL93] Harling, P.A.: Gesture Input using Neural Networks, Project Report, University of York, UK, Department of Computer Science, March 1993
+[HAUP93] Hauptmann, Alexander & McAvinney, Paul: Gestures with Speech for Graphic Manipulation, International Journal of Man Machine Studies, Vol. 38, No. 2, (1993), S. 231-249
+[HOMM94] Hommel, Hofmann & Henz: The TU-Berlin High-Precision Sensorglove, Fourth International Scientific Conference on Work With Display Units (WWDU), Milan, Oct. 1994, Book of Short Papers Vol. 2
+[KIM88] Kim, J.: On-line Gesture Recognition by Feature Analysis, Proceedings of Vision Interface, 1988, S. 51-55
+[KRZA88] Krzanowski, W. J.: Principles of Multivariate Analysis, Oxford University Press, Oxford,
+[MARI77] Marinell, G.: Multivariate Verfahren, Oldenbourg Verlag, München, 1977 [ROBE94] Roberts, Geoff D.: Statistical Pattern Classification in Computer Recognition of Sign Language (MS Thesis) R. Roberts Advanced Computer Graphics Centre, RMIT, Melbourne, Australia,
+[RUBI91] Rubine, Dean: The Automatic Recognition of Gestures, Ph.D. Thesis, Carnegie-Mellon University, 1991
+[STAR95] Starner T. & Pentland A.: Visual Recognition of American Sign Language Using Hidden Markov Models, Proceedings of the International Workshop on Automatic Face- and Gesture-Recognition (IWAFGR), Zurich, 1995
+[STUR92] Sturman, D.: Whole-Hand Input, Ph. D. Thesis, Media Arts and Sciences, MIT 1992
+[STUR94] Sturman, D. & Zeltzer, D.: A Survey of Glove-Based Input, IEEE Computer Graphics & Applications, Vol. 14, No. 1, January 1994
+[TAKA91] Takahashi, T. & Kashino, F.: Hand Gesture Coding Based on Experiments using a Hand Gesture Interface Device SIGCHI Bulletin, Vol. 23, No. 2, April 1991, S. 67-74
+[WEXE94] Wexelblatt, A.: A Feature-Based Approach to Continous-Gesture Analysis, MS Thesis, Massachusetts Institute of Technology (MIT), June, 1994
+[WILS95] Wilson, A. D. & Bobick, A. F.: Configuration States for the Representation and Recognition of Gesture, Proceedings of the International Workshop on Automatic Face- and Gesture-Recognition (IWAFGR), Zurich, 1995
