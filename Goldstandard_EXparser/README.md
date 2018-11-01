@@ -7,18 +7,18 @@ This corpus will grow constantly.
 ![gold standard process](3-Guidelinefiles/goldstandard-process.PNG "gold standard process")
 
 ## Content
-* Number of all papers in repository: 225
-* Number of German papers in repository: 125
+* Number of all papers in repository: 351
+* Number of German papers in repository: 251
 * Number of English papers in repository: 100
 
 
 ### How access to papers:
-**Papers are divided into two groups (according to their language).
-**There are six different folders in this repository.**
+* Papers are divided into two groups (according to their language) and there are six different folders in each groups.
 1. [German_papers](1-German_papers)
    - There are 225 papers in this folder.
-   - [105 paper with reference section at end of document](1-German_papers/1-German_papers(with_reference_section_at_end_of_paper))
-   - [20 paper with references in footnote](1-German_papers/2-German_papers(with_reference_in_footnote))
+   - [219 paper with reference section at the end of document](1-German_papers/1-German_papers(with_reference_section_at_end_of_paper))
+   - [12 paper with references in footnote and at the end of document](1-German_papers/2-German_papers(with_reference_in_footnote))
+   - [20 paper with references in footnote](1-German_papers/3-German_papers(with_reference_in_footnote_and_end_of_paper))
 2. [English_papers](2-English_papers)
    - There are 100 papers in this folder.
 3. [Guidelinefiles](3-Guidelinefiles/)
