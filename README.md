@@ -1,2 +1,2 @@
 # EXgoldstandard
-This gold standard is created for the evaluation and training of EXmatcher and EXparser
+The gold standards are created for the evaluation and training of the EXCITE tools EXmatcher and EXparser.
