@@ -56,3 +56,22 @@ By searching SSOARID (file name) in [SSOAR repository](http://www.ssoar.info/), 
 * selected papers are not in OCR or scanned (images) format or do not have a watermark in the background.
 * selected papers contain a reference section at end of the paper or some short citation as a footnote .
 * Number of References are in the range of: (3 < Reference < 50) 
+
+## How to generate GoldStandard for EXparser All Steps:
+1. Selecting Pdfs according to mentioned selection method and criteria.
+2. Extracting Layout from Pdfs:
+    * The used project to extracting layout from pdf is [Refex](https://github.com/exciteproject/refext)
+    * To underestand that what is layout exactly click [here](https://github.com/exciteproject/EXgoldstandard/tree/master/Goldstandard_EXparser/1-German_papers/1-German_papers(with_reference_section_at_end_of_paper)/2-layouts)
+3. Using EXRef-Identifier as a Reference String Identifier:
+    * EXRef-Identifier is a small Java-script code which is available [here](https://github.com/exciteproject/EXannotator/tree/master/EXRef-Identifier)
+    * A live demo is available [here](http://excite.west.uni-koblenz.de/refanno/index.html)
+    * A video tutorial to learn how to use this tool is available [here](https://www.youtube.com/watch?v=QSiqIHts23I&t=21s)
+4. Again using [Refex](https://github.com/exciteproject/refext) to extract annotated references from the generated layouts in previous step.
+5. Using EXRef-Segmentation as a Meta Data Segmentation:
+    * EXRef-Segmentation is a small Java-script code which is available [here](https://github.com/exciteproject/EXannotator/tree/master/EXRef-Segmentation)
+    * A live demo is available [here](http://excite.west.uni-koblenz.de/seganno/index.html)
+    * A video tutorial to learn how to use this tool is available [here](https://www.youtube.com/watch?v=xwed_XugR7E)
+6. Using a small python code to integrate the annotated meta (step 5) data in layout (step 3) file.
+    * This code is available [here]()
+7. Using these generated Gold standard to train a model for [Exparser](https://github.com/exciteproject/Exparser)
+    * To underestand how to train the EXparser please click [here](https://exparser.readthedocs.io/en/latest/)
